@@ -30,4 +30,4 @@ I build machine-learning security research prototypes, full-stack web apps and m
 
 **Tech:** Python · PyTorch · TypeScript · React / Next.js · Flutter / Dart · Firebase · Slurm/HPC · Git
 
-[LinkedIn](https://www.linkedin.com/in/florian-zainzinger-63650a259/) · florian.zainzinger@gmail.com
+[LinkedIn](https://www.linkedin.com/in/florian-zainzinger) · florian.zainzinger@gmail.com
